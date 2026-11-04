@@ -13,9 +13,9 @@
     <folder>system</folder>
     <client>site</client>
     <version>##VERSION##</version>
-    <infourl title="Panopticon Connector for Joomla! 3 Release Notes">https://github.com/akeeba/panopticon_connector_j3/releases/##VERSION##</infourl>
+    <infourl title="Panopticon Connector for Joomla! 3 Release Notes">https://github.com/getpanopticon/panopticon_connector_j3/releases/##VERSION##</infourl>
     <downloads>
-        <downloadurl type="full" format="zip">https://github.com/akeeba/panopticon_connector_j3/releases/download/##VERSION##/plg_system_panopticon.zip</downloadurl>
+        <downloadurl type="full" format="zip">https://github.com/getpanopticon/panopticon_connector_j3/releases/download/##VERSION##/plg_system_panopticon.zip</downloadurl>
     </downloads>
     <tags>
         <tag>stable</tag>

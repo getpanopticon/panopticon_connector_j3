@@ -1,6 +1,6 @@
 # Akeeba Panopticon Connector for Joomla! 3
 
-Allows you to connect Joomla 3.9 and 3.10 sites to [Akeeba Panopticon](https://github.com/akeeba/panopticon).
+Allows you to connect Joomla 3.9 and 3.10 sites to [Akeeba Panopticon](https://github.com/getpanopticon/panopticon).
 
 > [!IMPORTANT]
 > Developing and maintaining world-class software is neither easy nor free. The development of this software is subsidised by sales of our commercial offerings. If you like this software and would like to see it maintained in the future, please consider [purchasing a subscription](https://www.akeeba.com/subscribe.html) to one of our commercial offerings. _Thank you!_
